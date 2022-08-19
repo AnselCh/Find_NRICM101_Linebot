@@ -3,6 +3,11 @@
 提供更快速找住家附近有提供公費的清冠一號診所
 Easy to find where has free 'NRICM101'.
 
+# Combine Linebot
+
+用django架構將機器人部屬在Heroku上面,
+連接Postgresql請求清冠一號的資訊.
+
 ## Usage
 
 Create a venv and install dependencies
